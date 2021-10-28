@@ -30,3 +30,10 @@ body{
 .navbar-dark{
     background-color: #5915cf;
 }
+.tab-content{
+    border-left: 2px solid rgb(8, 236, 38);
+    border-right:1px solid #ddd;
+    border-bottom :1px solid #ddd;
+    padding: 10px;
+
+}
